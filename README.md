@@ -1,5 +1,4 @@
 # Awesome-Terminal-System-Information-Neofetch-Alternatives
-# Awesome-Terminal-System-Information-Neofetch-Alternatives
 
 ## Top Terminal System Information & Neofetch Alternatives Ecosystem
 
@@ -43,35 +42,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[CPU-Z (CPUID & Online Validator)](https://www.cpuid.com/softwares/cpu-z.html)**  
-
-  Proprietary hardware profiling utility with cloud validation (CPU-Z Validator) for sharing and verifying CPU, motherboard, and RAM benchmarks online.
-
-
-
-- **[HWiNFO](https://www.hwinfo.com/)**  
-
-  Comprehensive proprietary hardware analysis, real-time sensor monitoring, and remote/cloud reporting tool for Windows and DOS.
-
-
-
-- **[Speccy](https://www.ccleaner.com/speccy)**  
-
-  Proprietary system information tool by Piriform/CCleaner offering detailed hardware summaries, live temperatures, and shareable web/XML diagnostic snapshots.
-
-
-
-- **[HWMonitor & HWMonitor PRO](https://cpuid.com)**  
-
-  Hardware health monitoring software that tracks voltages, temperatures, and fan speeds with remote network and cloud monitoring capabilities in the PRO tier.
-
-
-
-- **[AIDA64](https://aida64.com)**  
-
-  Commercial system diagnostics, stress-testing, and network audit suite with remote web dashboards and cloud telemetry integrations.
+| Platform | Description | Pricing | Free Tier Limit |
+| --- | --- | --- | --- |
+| **[CPU-Z (CPUID & Online Validator)](https://www.cpuid.com/softwares/cpu-z.html)** | Proprietary hardware profiling utility with cloud validation (CPU-Z Validator) for sharing and verifying CPU, motherboard, and RAM benchmarks online. | Free ($0 for standard Windows/Android app; optional in-app ad removal ~$0.49–$1.60) | Free forever (full hardware detection, reporting, and unlimited web benchmark validation submissions) |
+| **[HWiNFO](https://www.hwinfo.com/)** | Comprehensive proprietary hardware analysis, real-time sensor monitoring, and remote/cloud reporting tool for Windows and DOS. | Starting at $29.00 (Pro Personal Lifetime license; Business at $44.00) | Free forever (non-commercial personal use only; sensor logging and shared memory/REST API limited to 12-hour run intervals) |
+| **[Speccy](https://www.ccleaner.com/speccy)** | Proprietary system information tool by Piriform/CCleaner offering detailed hardware summaries, live temperatures, and shareable web/XML diagnostic snapshots. | Starting at $19.95/year (Speccy Professional; Free version available) | Free forever (home personal use; full hardware summary and real-time temperatures without automatic updates or premium support) |
+| **[HWMonitor & HWMonitor PRO](https://cpuid.com)** | Hardware health monitoring software that tracks voltages, temperatures, and fan speeds with remote network and cloud monitoring capabilities in the PRO tier. | Starting at €19.95 (HWMonitor PRO Standard license; Extended at €34.95) | Free forever (standard HWMonitor covers local system monitoring; PRO offers a 30-day evaluation trial with remote connection limits) |
+| **[AIDA64](https://aida64.com)** | Commercial system diagnostics, stress-testing, and network audit suite with remote web dashboards and cloud telemetry integrations. | Starting at $65.95 (AIDA64 Extreme 1-year license for up to 3 PCs) | 30-day free trial (trial limits certain sensor readings, benchmark results, and hardware details) |
 
 
 
