@@ -220,3 +220,12 @@ Star the repo if you find it useful!
 **Made for Linux ricers, sysadmins, hardware enthusiasts, and open-source developers.**  
 
 Let's make system diagnostics and terminal info tools faster, transparent, and more accessible.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Terminal-System-Information-Neofetch-Alternatives_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Terminal-System-Information-Neofetch-Alternatives_growth.svg">
+  </picture>
+</a>
