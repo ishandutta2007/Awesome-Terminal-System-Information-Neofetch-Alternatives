@@ -63,7 +63,7 @@ The computer hardware diagnostic, terminal system information, and telemetry sec
 
 ## 💻 Open-Source GitHub Projects
 
-*Active community-driven terminal system fetchers, CLI hardware profilers, TUI monitors, and diagnostic tools, ranked strictly by GitHub Stars_Count (descending).*
+*Active community-driven terminal system fetchers, CLI hardware profilers, TUI monitors, and diagnostic tools, ranked strictly by GitHub_Stars_Count (descending).*
 
 ### ⭐ Featured Open-Source Projects
 
