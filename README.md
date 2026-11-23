@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives?style=social" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives" alt="GitHub Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives" alt="License" /></a>
@@ -63,7 +63,7 @@ The computer hardware diagnostic, terminal system information, and telemetry sec
 
 ## 💻 Open-Source GitHub Projects
 
-*Active community-driven terminal system fetchers, CLI hardware profilers, TUI monitors, and diagnostic tools, ranked strictly by GitHub star count (descending).*
+*Active community-driven terminal system fetchers, CLI hardware profilers, TUI monitors, and diagnostic tools, ranked strictly by GitHub Stars_Count (descending).*
 
 ### ⭐ Featured Open-Source Projects
 
@@ -158,7 +158,7 @@ Contributions are warmly welcomed! Help keep this ecosystem up-to-date and compr
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create a branch** for your update (`git checkout -b feature/add-new-fetcher`).
 3. 📝 **Add/edit entries** in `README.md` following the existing format:
-   - Provide the project name, official URL, star count badge, and a concise 1–2 sentence description.
+   - Provide the project name, official URL, Stars_Count badge, and a concise 1–2 sentence description.
    - For SaaS tools, specify company size/revenue, starting pricing tier, and free trial / forever limits.
 4. ✅ **Ensure accuracy** by linking directly to official documentation or repositories.
 5. 🚀 **Submit a Pull Request** with a brief summary of why the utility should be featured.
@@ -189,3 +189,12 @@ Your support keeps these curated awesome lists maintained, accurate, and up-to-d
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives&type=date&legend=top-left)
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives&type=date&legend=top-left)
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Terminal-System-Information-Neofetch-Alternatives_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Terminal-System-Information-Neofetch-Alternatives_growth.svg">
+  </picture>
+</a>
